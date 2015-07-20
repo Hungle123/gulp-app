@@ -1,5 +1,5 @@
 # gulp-app
-- Simple gulp app
+
 ## Run app
 ``
 gulp serve
